@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets / local configuration
+.env
+*.log
+
+# Recon output
+*.txt
+*.json
+*.csv
+# screenshots are intentionally tracked under docs/screenshots/
